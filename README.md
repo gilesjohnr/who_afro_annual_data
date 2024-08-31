@@ -1,4 +1,4 @@
-# Cholera Cases, Deaths, and CFR in AFRO Countries (1970 - 2024)
+# Reported Cholera Cases and Deaths in AFRO Countries from January 1970 to August 2024
 
 ## Overview
 
