@@ -1,0 +1,45 @@
+"region","country","iso_code","cases_total","cases_imported","deaths","cfr","year"
+"AFR","Benin","BEN",433,0,2,0.5,2022
+"AFR","Burkina Faso","BFA",4,0,0,0,2022
+"AFR","Burundi","BDI",25,0,0,0,2022
+"AFR","Cameroon","CMR",14431,15,279,1.9,2022
+"AFR","Democratic Republic of the Congo","COD",18961,0,298,1.6,2022
+"AFR","Ethiopia","ETH",846,0,27,3.2,2022
+"AFR","Kenya","KEN",3525,0,64,1.8,2022
+"AFR","Liberia","LBR",367,0,0,0,2022
+"AFR","Malawi","MWI",17488,186,576,3.3,2022
+"AFR","Mozambique","MOZ",4378,NA,22,0.5,2022
+"AFR","Nigeria","NGA",23839,0,597,2.5,2022
+"AFR","Rwanda","RWA",24,0,0,0,2022
+"AFR","Somalia","SOM",15653,0,88,0.6,2022
+"AFR","South Africa","ZAF",1,0,0,0,2022
+"AFR","South Sudan","SSD",424,0,1,0.2,2022
+"AFR","Zambia","ZMB",34,0,0,0,2022
+"AFR","Zimbabwe","ZWE",4,1,1,25,2022
+"ASIA","Afghanistan","AFG",281485,6,100,0.04,2022
+"ASIA","Bahrain","BHR",1,1,0,0,2022
+"ASIA","Bangladesh","BGD",1191,NA,NA,NA,2022
+"ASIA","Cambodia","KHM",20,NA,0,0,2022
+"ASIA","China","CHN",31,0,0,0,2022
+"ASIA","India","IND",601,NA,NA,NA,2022
+"ASIA","Iraq","IRQ",3708,0,25,0.7,2022
+"ASIA","Kuwait","KWT",1,1,0,0,2022
+"ASIA","Lebanon","LBN",5715,4,23,0.4,2022
+"ASIA","Nepal","NPL",77,0,0,0,2022
+"ASIA","Pakistan","PAK",1006,0,43,4.3,2022
+"ASIA","Philippines","PHL",8098,NA,100,1.2,2022
+"ASIA","Singapore","SGP",7,7,0,0,2022
+"ASIA","Syrian Arab Republic","SYR",70222,0,102,0.1,2022
+"ASIA","Thailand","THA",5,0,1,20,2022
+"ASIA","United Arab Emirates","ARE",37,37,0,0,2022
+"EURO","Austria","AUT",1,1,0,0,2022
+"EURO","France","FRA",7,3,0,0,2022
+"EURO","Germany","DEU",6,6,0,0,2022
+"EURO","Greece","GRC",1,1,0,0,2022
+"EURO","Italy","ITA",1,1,0,0,2022
+"EURO","Netherlands","NLD",2,2,0,0,2022
+"EURO","Norway","NOR",3,3,0,0,2022
+"EURO","Sweden","SWE",7,7,0,0,2022
+"EURO","United Kingdom","GBR",23,23,0,0,2022
+"OCE","Australia","AUS",3,2,0,0,2022
+"OCE","New Zealand","NZL",1,1,0,0,2022
