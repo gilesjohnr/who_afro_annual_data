@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Shiny application provides an interactive platform for visualizing cholera cases, deaths, and the case fatality ratio (CFR) in countries within the World Health Organization's African Region (AFRO) from 1970 to 2024. The application allows users to explore data for individual countries, with the ability to toggle between different metrics, including cases, deaths, and CFR (with 95% confidence intervals).
+This Shiny application provides an interactive platform for visualizing cholera reported cases and deaths in countries within the World Health Organization's African Region (AFRO) from 1970 to 2024. The application allows users to explore data for individual countries, with the ability to toggle between reported cases and deaths.
 
 ## Data Sources
 
